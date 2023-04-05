@@ -21,3 +21,8 @@ fetch game
 https://editor.p5js.org/coffiemug/full/hGE7Uh-w6
 click to throw a bone, move the mouse to make the puppy catch it!
 <img width="396" alt="Screen Shot 2023-04-05 at 2 17 59 PM" src="https://user-images.githubusercontent.com/124199428/230169324-65a6b4e4-3912-4c29-bda2-24b56ffc43d4.png">
+
+greentiles abstract
+https://editor.p5js.org/coffiemug/full/iw6wo5o60
+created a pattern and tiled it across the canvas, using for() loops in both. the individual flowers were also made using for() loops.
+<img width="398" alt="Screen Shot 2023-04-05 at 2 21 53 PM" src="https://user-images.githubusercontent.com/124199428/230169952-130b3d11-c280-4b75-91ca-b620c76a70fe.png">
