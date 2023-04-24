@@ -62,7 +62,17 @@ bubbles made using classes & objects satisfyingly float and bounce off the walls
 <img width="597" alt="Screen Shot 2023-04-23 at 8 50 42 PM" src="https://user-images.githubusercontent.com/124199428/233876865-9cdb4cc3-146f-4ccf-89fc-ce4876292e02.png">
 
 
-butterfly bubble garden simu
+frogger game
+https://editor.p5js.org/coffiemug/sketches/Bi5Ebyale
+the goal was to get as close as possible tto making our own frogger or frogger-like game, something somewhat slightly above the level that our class had been taught to thus far. my game doesn't have any collision detection yet, but once you click on the canvas you ocan move the frog using the arrow keys, and there is a win message displayed when you hit the end!
+/
+
+<img width="397" alt="Screen Shot 2023-04-23 at 9 05 29 PM" src="https://user-images.githubusercontent.com/124199428/233877866-71d081f4-8a2a-4c86-a547-c039e915a8f4.png">
+<img width="396" alt="Screen Shot 2023-04-23 at 9 05 59 PM" src="https://user-images.githubusercontent.com/124199428/233877872-d2b9b331-7428-441d-8c4f-bd7632fdda17.png">
+
+
+
+butterfly bubble garden sim
 https://editor.p5js.org/coffiemug/sketches/dioDEd7cQ
 simulation where bubbles are blown from off screen (they multiply when they hit the left and right canvas edges) and are popped by flapping butterflies when they collide. tulip field in the background jitters in the breeze :)
 /
