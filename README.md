@@ -42,9 +42,16 @@ gave each flower a unique color this time and edited the pattern slightly.
 gardenpatch generator
 https://editor.p5js.org/coffiemug/full/mugb7g4Ao
 based on greentiles color ver. but color, size, and placement are all randomized. I enjoy removing the noLoop() command and watching the flowers dance around :)
+
 /
 <img width="401" alt="Screen Shot 2023-04-05 at 2 30 34 PM" src="https://user-images.githubusercontent.com/124199428/230172527-d51a75a4-6aed-4f4a-9093-651b4f383322.png">
 <img width="401" alt="Screen Shot 2023-04-05 at 2 31 11 PM" src="https://user-images.githubusercontent.com/124199428/230172660-e6248030-296c-4974-af3e-f744c7879c08.png">
 <img width="399" alt="Screen Shot 2023-04-05 at 2 33 00 PM" src="https://user-images.githubusercontent.com/124199428/230173111-5703d798-337a-4d71-8b03-4c397844083b.png">
 
+
+bubble screrensaver
+https://editor.p5js.org/coffiemug/sketches/dioDEd7cQ
+bubbles made using classes & objects satisfyingly float and bounce off the walls like a screensaver.
+/
+<img width="597" alt="Screen Shot 2023-04-23 at 8 50 42 PM" src="https://user-images.githubusercontent.com/124199428/233876865-9cdb4cc3-146f-4ccf-89fc-ce4876292e02.png">
 
